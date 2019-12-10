@@ -1,0 +1,19 @@
+{
+  "appKey": "2oQNS8iyi3dopSkHKgxjpTwtfhZx7MHN",
+  "appSecret": "CcCLGj3XXQzxnf1hl0dvxzgo0RhiYZ1n",
+  "projectId": "862c416fe019bcd610b3ef89e1ea8d22",
+  "id": 250,
+  "name": "test",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/wuliao.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "lh15627836616"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
